@@ -1,10 +1,10 @@
 /* GENERAL */
 @font-face {
     font-family: 'Metropol95';
-    src: url('Metropol95.eot') format('eot'),
-         url('Metropol95.woff') format('woff'),
-         url('Metropol95.ttf') format('truetype'),
-         url('Metropol95.svg') format('svg');
+    src: url('font/Metropol95.eot') format('eot'),
+         url('font/Metropol95.woff') format('woff'),
+         url('font/Metropol95.ttf') format('truetype'),
+         url('font/Metropol95.svg') format('svg');
 }
 *
 {
